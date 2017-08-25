@@ -1,7 +1,16 @@
+INTERFACE
+				if (Persona.class.isAssignableFrom(objetivo)) {
+					....
+					....
+					PRINTL ()
+				}
+
 * http://slideplayer.es/slide/1734530/ -- POSTMORTEM TSP
 * http://afgano2006.blogspot.com.co/ 
 * Postmortem https://www.google.com.co/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&uact=8&ved=0ahUKEwj0u7nPt_LVAhXFKiYKHTfpAHgQFghLMAY&url=https%3A%2F%2Fnotasdelprofesor.files.wordpress.com%2F2013%2F06%2Finforme_postmortem_ok.docx&usg=AFQjCNEbZrkTc-qGk0q8ok8iE7YnAAQdBA
-Neotect S.A.
-Informe Postmortem
-Proceso Originación de Crédito, Banco de los Alpes
+Neotect S.A.
+
+Informe Postmortem
+
+Proceso OriginaciÃ³n de CrÃ©dito, Banco de los Alpes
 * https://imagine.uniandes.edu.co/~isis2603/dokuwiki/lib/exe/fetch.php?media=principal:reflexion_fin_de_ciclo.pdf
